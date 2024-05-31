@@ -1,7 +1,5 @@
-.idea
-.idea/*
-node_modules
-.env
-*.log
+/.git
 /.vscode
+node_modules
+*.log
 package-lock.json
